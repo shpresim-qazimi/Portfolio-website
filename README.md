@@ -1,2 +1,3 @@
 # portfolio-1
-# This project is a skills showcase that the students achieved during the front-end web development training.
+# Welcome to my personal web portfolio! This project showcases my skills, projects, and experiences as a Front-End Web Developer. 
+
